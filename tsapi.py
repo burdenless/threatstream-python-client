@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 # threatstreap-api.py
-#
-# Copyright (C) 2014 THREAT STREAM, Inc.
-# This file is subject to the terms and conditions of the GNU General Public
-# License version 2.  See the file COPYING in the main directory for more
-# details.
 
 import requests
 from re import match
